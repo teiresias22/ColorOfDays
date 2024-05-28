@@ -1,0 +1,2 @@
+---
+BUNDLE_BUILD__POSIX___SPAWN: "--use-system-libraries"
