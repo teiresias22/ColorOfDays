@@ -1,1 +1,0 @@
-# teiresias.github.io
