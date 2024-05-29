@@ -36,41 +36,41 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : 하루를 색상으로 기록
+    description                           : 오늘 하루를 색상으로 기록합니다. 7가지 색상중 하나로 오늘을 기록합니다.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : 기록은 최근 3일까지
+    description                           : 기록은 최근 3일까지만 가능해요. 시간이 지나면 기억은 추억이 되어 미화되기 마련이거든요.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : 텍스트와 사진 지원
+    description                           : 색으로도 잊지 못한 하루를 보냈다면 사진과 텍스트로 함께 남겨보세요.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : 계정관리
+    description                           : 다른 기기로 옮겨도 기록은 영원히. 소셜 로그인을 통해 내 기록을 유지하세요.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 나만의 색상 설정
+    description                           : 제공되는 색상이 나와는 어울리지 않다면, 나만의 색상을 설정할 수 있어요!
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 일년동안 기록을 한눈에
+    description                           : 지난 일년동안의 기록을 한눈에 보고 나의 기분이 어떠했는지 한번에 회고할 수 있어요!
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : 손쉬운 통계
+    description                           : 년도별 혹은 전체 기록의 통계를 한번에 확인할 수 있어요.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : iOS와 Android 동시 지원
+    description                           : iOS에 이어 Android까지 출시
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : # FontAwesome Support
+    description                           : # Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
