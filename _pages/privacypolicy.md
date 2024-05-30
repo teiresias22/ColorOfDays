@@ -48,8 +48,8 @@ include_in_header: false
 
 서비스는 개인정보를 국외의 다른 사업자에게 제공하지 않습니다. 다만, 정보통신서비스의 제공에 관한 계약 이행 및 사용자 편의를 위하여 다음과 같이 개인정보 처리 업무를 국외에 위탁하고 있습니다.
 
-| 수탁업체 | 국가 | 위탁일시 및 방법 | 책임자 및 연락처 | 위탁하는 개인정보 항목 |
-| :--- | :--- | :--- | :--- | :--- |
+| 수탁업체 | 국가 | 위탁일시 및 방법 | 책임자 및 연락처 | 위탁하는 개인정보 항목                                                                                                                                                 |
+| :--- | :--- | :--- | :--- |:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Supabase | 미국 | 서비스 이용 시 수시로 서버를 통해 전송 | support@supabase.com | 아이디(이메일주소), 이름, 비밀번호, 프로필 정보(닉네임/프로필 사진), 기기정보(기기 모델·OS·디바이스 아이디), IP Address, 쿠키(Cookie), 서비스 접속 일시, 서비스 이용 기록, 서비스 불량 이용 기록, 사진파일, 파일속성(이름(파일명) / 마지막 수정일) |
 본조에 따른 국외법인에 대한 개인정보 처리 업무 위탁의 관리에 대하여는 제3조 제2항 및 제3항을 준용합니다.
 
@@ -90,8 +90,8 @@ include_in_header: false
 Google Analytics 및 맞춤형 광고에 대한 안내
 
 1. 서비스는 고객에게 더 나은 서비스를 제공하기 위한 목적으로 Google, Inc.(이하 ‘Google’)이 제공하는 웹 분석 서비스인 Google Analytics를 사용하여 고객들이 회사의 서비스를 어떻게 이용하는지 분석 및 평가하고 고객의 수요를 파악함으로써 서비스와 제품을 개선하고 맞춤화하여 효율적인 서비스를 제공하고 있습니다.
-2. Google Analytics는 모바일 또는 데스크탑 디바이스에 저장된 텍스트 파일인 ‘쿠키’를 사용하여 이용자의 서비스 이용방식을 분석합니다. Google의 외부 분석툴을 통한 분석 및 맞춤형 광고 제공 서비스를 거부하시는 경우 tools.google.com/dlpage/gaoptout 에서 현재 고객의 웹 브라우저에 대한 부가 기능을 다운로드 및 설치하여 Google의 정보 처리를 거부할 수 있습니다. Google의 정보 처리에 관한 보다 자세한 내용은 www.google.com/analytics/learn/privacy.html을 참고하시기 바랍니다.
-3. Google은 쿠키 정보의 분석을 위하여 개인식별 가능성이 없는 ‘쿠키’ 정보를 미국 내 Google 서버로 전송합니다. Google의 정보 처리에 관한 보다 자세한 내용은google.com/analytics/learn/privacy.html을 참고하시기 바랍니다.
+2. Google Analytics는 모바일 또는 데스크탑 디바이스에 저장된 텍스트 파일인 ‘쿠키’를 사용하여 이용자의 서비스 이용방식을 분석합니다. Google의 외부 분석툴을 통한 분석 및 맞춤형 광고 제공 서비스를 거부하시는 경우 [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) 에서 현재 고객의 웹 브라우저에 대한 부가 기능을 다운로드 및 설치하여 Google의 정보 처리를 거부할 수 있습니다. Google의 정보 처리에 관한 보다 자세한 내용은 [google.com/analytics/learn/privacy.html](https://www.google.com/analytics/learn/privacy.html)을 참고하시기 바랍니다.
+3. Google은 쿠키 정보의 분석을 위하여 개인식별 가능성이 없는 ‘쿠키’ 정보를 미국 내 Google 서버로 전송합니다. Google의 정보 처리에 관한 보다 자세한 내용은 [google.com/analytics/learn/privacy.html](https://google.com/analytics/learn/privacy.html)을 참고하시기 바랍니다.
 
 <br>
 
@@ -114,9 +114,9 @@ Google Analytics 및 맞춤형 광고에 대한 안내
 
 기타 개인정보침해에 대한 신고나 상담이 필요하신 경우에는 아래 기관에 문의하시기 바랍니다.
 
-- 개인정보침해신고센터 (privacy.kisa.or.kr / 국번 없이 118)
-- 대검찰청 사이버수사과 (spo.go.kr / 국번 없이 1301)
-- 경찰청 사이버안전국 (cyberbureau.police.go.kr / 국번 없이 182)
+- 개인정보침해신고센터 ([privacy.kisa.or.kr](https://privacy.kisa.or.kr) / 국번 없이 118)
+- 대검찰청 사이버수사과 ([spo.go.kr](https://spo.go.kr) / 국번 없이 1301)
+- 경찰청 사이버안전국 ([cyberbureau.police.go.kr](https://cyberbureau.police.go.kr) / 국번 없이 182)
 
 ---
 ### End of Document
