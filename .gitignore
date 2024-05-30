@@ -1,11 +1,7 @@
-_site/about
-_site/assets
-_site/jekyll
-_site/Gemfile
-_site/Gemfile.lock
-_site/main.css
-
+_site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+google3ea82757dbf0d008.html
