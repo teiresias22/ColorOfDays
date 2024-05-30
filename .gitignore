@@ -1,4 +1,10 @@
-_site
+_site/about
+_site/assets
+_site/jekyll
+_site/Gemfile
+_site/Gemfile.lock
+_site/main.css
+
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
