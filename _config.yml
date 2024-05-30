@@ -37,45 +37,40 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : 하루를 색상으로 기록
-    description                           : 오늘 하루를 색상으로 기록합니다. 7가지 색상중 하나로 오늘을 기록합니다.
-    fontawesome_icon_name                 : magic
+    description                           : 오늘 하루를 색상으로 기록합니다. </br>7가지 색상중 하나로 오늘을 기록합니다.
+    fontawesome_icon_name                 : brush
     
   - title                                 : 기록은 최근 3일까지
-    description                           : 기록은 최근 3일까지만 가능해요. 시간이 지나면 기억은 추억이 되어 미화되기 마련이거든요.
-    fontawesome_icon_name                 : mobile
+    description                           : 기록은 최근 3일까지만 가능해요. </br>시간이 지나면 기억은 추억이 되어 미화되기 마련이거든요.
+    fontawesome_icon_name                 : calendar
 
   - title                                 : 텍스트와 사진 지원
-    description                           : 색으로도 잊지 못한 하루를 보냈다면 사진과 텍스트로 함께 남겨보세요.
-    fontawesome_icon_name                 : play-circle
+    description                           : 색상으로도 충분하지 않은 날은 텍스트와 사진으로도 기록을 남길수 있어요!
+    fontawesome_icon_name                 : image
 
   - title                                 : 계정관리
-    description                           : 다른 기기로 옮겨도 기록은 영원히. 소셜 로그인을 통해 내 기록을 유지하세요.
-    fontawesome_icon_name                 : sync
+    description                           : 다른 기기로 옮겨도 기록은 영원히. </br>소셜 로그인을 통해 내 기록을 유지하세요.
+    fontawesome_icon_name                 : globe
 
   - title                                 : 나만의 색상 설정
-    description                           : 제공되는 색상이 나와는 어울리지 않다면, 나만의 색상을 설정할 수 있어요!
-    fontawesome_icon_name                 : adjust
+    description                           : 제공되는 색상이 나와는 어울리지 않다면, 나만의 색상으로 설정할 수 있어요!
+    fontawesome_icon_name                 : user
   
   - title                                 : 일년동안 기록을 한눈에
-    description                           : 지난 일년동안의 기록을 한눈에 보고 나의 기분이 어떠했는지 한번에 회고할 수 있어요!
-    fontawesome_icon_name                 : star
+    description                           : 지난 일년 동안의 기록 한눈에 보며 지난 기록을 회고할 수 있어요!
+    fontawesome_icon_name                 : calendar-days
 
   - title                                 : 손쉬운 통계
-    description                           : 년도별 혹은 전체 기록의 통계를 한번에 확인할 수 있어요.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    description                           : 일년 혹은 전체 통계를 손쉽게 확인할 수 있어요!
+    fontawesome_icon_name                 : chart-simple
 
   - title                                 : iOS와 Android 동시 지원
-    description                           : iOS에 이어 Android까지 출시
-    fontawesome_icon_name                 : link
+    description                           : iOS에 이어 Android까지 출시되었어요!
+    fontawesome_icon_name                 : mobile
 
   - title                                 : # FontAwesome Support
     description                           : # Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : # info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
 
 
 # Theme Settings
@@ -107,17 +102,6 @@ social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
-
-
-
-
-
-
-
-
-
-
-
 
 
 ####################################################
