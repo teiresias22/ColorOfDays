@@ -7,7 +7,7 @@ ios_app_country                           : kr                                  
 
 appstore_link                             : https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98-%EC%83%89%EC%83%81/id6443436725                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
+presskit_download_link                    : https://www.notion.so/teiresias/Color-of-Days-5166b69ac4e64558951e3795c76ce4aa?pvs=4                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Joonhwan
-your_link                                 : https://www.notion.so/teiresias/76f4263f50d449fea2fadcbde2f94eb6?pvs=4
+your_link                                 : https://github.com/teiresias22
 your_city                                 : Seoul
 email_address                             : teiresias1987@gmail.com
 facebook_username                         :                                           
@@ -28,7 +28,7 @@ instagram_username                        : j.oooon
 twitter_username                          :
 github_username                           : teiresias22
 youtube_username                          :
-mastodon_link                             : https://www.notion.so/teiresias/Color-of-Days-5166b69ac4e64558951e3795c76ce4aa?pvs=4
+mastodon_link                             :
 
 
 
