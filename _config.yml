@@ -36,15 +36,15 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : 하루를 색상으로 기록
-    description                           : 오늘 하루를 색상으로 기록합니다. 7가지 색상중 하나로 오늘을 기록합니다.
+    description                           : 당신의 하루를 색상으로 기록하세요! 7가지의 다채로운 색으로 오늘을 기록해요.
     fontawesome_icon_name                 : brush
     
   - title                                 : 기록은 최근 3일까지
-    description                           : 기록은 최근 3일까지만 가능해요. 시간이 지나면 기억은 추억이 되어 미화되기 마련이거든요.
+    description                           : 기록은 최근 3일 까지만 가능해요. 시간이 지나면 기억은 추억이 되어 미화되기 마련이거든요.
     fontawesome_icon_name                 : calendar-day
 
   - title                                 : 텍스트와 사진 지원
-    description                           : 색상으로도 충분하지 않은 날은 텍스트와 사진으로도 기록을 남길수 있어요!
+    description                           : 색상만 남기기 아쉬운 날에는 사진과 텍스트로 기록을 남길수 있어요!
     fontawesome_icon_name                 : image
 
   - title                                 : 계정관리
@@ -52,7 +52,7 @@ features                                  :
     fontawesome_icon_name                 : globe
 
   - title                                 : 나만의 색상 설정
-    description                           : 제공되는 색상이 나와는 어울리지 않다면, 나만의 색상으로 설정할 수 있어요!
+    description                           : 기본으로 제공되는 색상이 나와는 어울리지 않다면, 나만의 색상으로 설정할 수 있어요!
     fontawesome_icon_name                 : user
   
   - title                                 : 일년동안 기록을 한눈에
