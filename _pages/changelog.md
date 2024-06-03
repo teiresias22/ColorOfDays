@@ -11,7 +11,7 @@ include_in_header: true
 
 ### `Latest`
 # **Version 2.0.0**
-오늘의 색상이 Android에 출시하였습니다.
+오늘의 색상이 곧 Android에 출시됩니다.
 로그인 기능으로 데이터를 안전하게 보관하세요.
 
 #### What's New

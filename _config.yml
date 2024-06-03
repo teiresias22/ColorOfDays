@@ -1,5 +1,5 @@
 #page title
-page_title                                : joonhwan
+page_title                                : Color of Days
 
 # App Info
 ios_app_id                                : 6443436725                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -13,7 +13,7 @@ presskit_download_link                    : https://www.notion.so/teiresias/Colo
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : 오늘의 색상                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 당신의 일상을 색으로 기록해 보세요!
+app_description                           : 당신의 일상을 색으로 기록해요!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -64,7 +64,7 @@ features                                  :
     fontawesome_icon_name                 : chart-pie
 
   - title                                 : iOS와 Android 동시 지원
-    description                           : iOS에 이어 Android까지 출시되었어요!
+    description                           : Android 출시를 앞두고 있어요, 지금은 비공개 테스트중!
     fontawesome_icon_name                 : mobile
 
   - title                                 : # FontAwesome Support
