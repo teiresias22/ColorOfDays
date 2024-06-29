@@ -64,7 +64,7 @@ features                                  :
     fontawesome_icon_name                 : chart-pie
 
   - title                                 : iOS와 Android 동시 지원
-    description                           : Android 출시를 앞두고 있어요, 지금은 비공개 테스트중!
+    description                           : iOS에 이어 Android에서도 정식 출시를 완료 했어요!
     fontawesome_icon_name                 : mobile
 
   - title                                 : # FontAwesome Support
